@@ -1,2 +1,2 @@
-# Encryptix_Task_3
+# Calculator
 A simple calculator app for basic arithmetic calculation
